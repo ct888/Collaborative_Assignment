@@ -1,4 +1,4 @@
-# seekhere_proj
+# seek_here
 
 A new Flutter project.
 
